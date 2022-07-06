@@ -1,0 +1,12 @@
+{
+	"synapse": {
+         "client_id": "2f59abbc-7b40-4d0e-91b2-22ca3084bc84",
+         "client_secret": "OKa8Q~Ng5h~3P_OH-OvVyLFUCnS5hhbtyblJJaKR",
+         "tenant_id": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+         "synapse_uri": "",
+         "Oak_uri": "testvik4.oep.ppe.azure-int.net",
+         "Synapse_Endpoint": "https://ri11ushi.dev.azuresynapse.net",
+         "Data_Partition": "testvik4-part-1"
+    }
+
+}

@@ -1,0 +1,39 @@
+{
+	"synapse": {
+		"parameters": {
+			"name": "ritushitestarm",
+			"location": "eastus",
+			"defaultDataLakeStorageAccountName": "ritushitestadls",
+			"defaultDataLakeStorageFilesystemName": "data",
+			"sqlAdministratorLogin": "sqladmin",
+			"setWorkspaceIdentityRbacOnStorageAccount": "false",
+			"createManagedPrivateEndpoint": "false",
+			"defaultAdlsGen2AccountResourceId": "/subscriptions/c99e2bf3-1777-412b-baba-d823676589c2/resourceGroups/ritushis-test-rg/providers/Microsoft.Storage/storageAccounts/ritushitestadls",
+			"azureADOnlyAuthentication": "false",
+			"allowAllConnections": "true",
+			"managedVirtualNetwork": "",
+			"tagValues": {},
+			"storageSubscriptionID": "c99e2bf3-1777-412b-baba-d823676589c2",
+			"storageResourceGroupName": "ritushis-test-rg",
+			"storageLocation": "centralus",
+			"storageRoleUniqueId": "ea7876ee-81e7-4f25-9159-c06b39567030",
+			"isNewStorageAccount": "true",
+			"isNewFileSystemOnly": "false",
+			"adlaResourceId": "",
+			"managedResourceGroupName": "",
+			"storageAccessTier": "Hot",
+			"storageAccountType": "Standard_RAGRS",
+			"storageSupportsHttpsTrafficOnly": "true",
+			"storageKind": "StorageV2",
+			"minimumTlsVersion": "TLS1_2",
+			"storageIsHnsEnabled": "true",
+			"userObjectId": "04eff046-d35f-452e-a297-65b5bda1d274",
+			"setSbdcRbacOnStorageAccount": "false",
+			"setWorkspaceMsiByPassOnStorageAccount": "false",
+			"workspaceStorageAccountProperties": {}
+		}
+	},
+	"linkservice": {
+		"parameters": {}
+	}
+}
